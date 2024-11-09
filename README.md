@@ -8,6 +8,8 @@ This project presents a comprehensive analysis of **Reliance Smart's sales perfo
 
  ![Screenshot of the application](/dashboard_page-0001.jpg)
 
+ ![Screenshot of the application](/dashboard2_page-0001.jpg)
+
 ## **Data Model Diagram**
 
  ![Screenshot of the application](/dmd.png)
